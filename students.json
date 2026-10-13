@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mounika",
+    "age": 20,
+    "marks": 85,
+    "course": "CSE"
+  },
+  {
+    "name": "Riya",
+    "age": 22,
+    "marks": 72,
+    "course": "CSE"
+  },
+  {
+    "name": "Anu",
+    "age": 21,
+    "marks": 65,
+    "course": "CSE"
+  },
+  {
+    "name": "Rahul",
+    "age": 24,
+    "marks": 90,
+    "course": "CSE"
+  },
+  {
+    "name": "Kiran",
+    "age": 22,
+    "marks": 55,
+    "course": "CSE"
+  }
+] 
